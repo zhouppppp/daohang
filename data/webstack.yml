@@ -7,16 +7,16 @@
       logo: 
       qrcode: 
       description: Google搜索是一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
+    - title: Youtube
+      url: https://www.youtube.com/
+      logo: 
+      qrcode: 
+      description: YouTube是目前全球最大的视频搜索和分享平台，同时允许用户上传、观看、分享及评论视频。
+    - title: Telegram
+      url: https://www.telegram.org/
+      logo: 
+      qrcode: 
+      description: Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。
     - title: 网络剪贴板
       url: https://netcut.cn/
       logo: images/logos/xxx.png
