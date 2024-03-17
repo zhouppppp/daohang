@@ -17,21 +17,21 @@
       logo: 
       qrcode: 
       description: Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
+    - title: X
+      url: https://twitter.com/
+      logo: 
+      qrcode: 
+      description: X（前身为Twitter）社交网络服务，并计划将其作为其他产品的基础[1]。
+    - title: Instagram
+      url: https://www.instagram.com/
+      logo: 
+      qrcode: 
+      description: Ins，是美国的一款免费提供在线图片及视频分享的社群应用软件，于2010年10月发布。
+    - title: Facebook
+      url: https://www.facebook.com/
+      logo: 
+      qrcode: 
+      description: Facebook（简称FB），是源于美国的社交网络服务及社会化媒体网站，
       
 - taxonomy: 云服务平台
   icon: fa-cloud
