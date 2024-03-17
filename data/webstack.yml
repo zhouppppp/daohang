@@ -2,17 +2,21 @@
 - taxonomy: 常用工具
   icon: fa-star
   links: 
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 草料二维码
-      qrcode: images/qrcodes/cli.png
-      url: https://cli.im/url
-      description: 在线二维码生成工具
-    - title: 在线文件传输
-      url: https://musetransfer.com/
+    - title: Google
+      url: 
+      logo: 
+      qrcode: https://www.google.com
+      description: 
+    - title: Youtube
+      url: 
+      logo: 
+      qrcode: https://www.youtube.com
+      description: 
+    - title: Youtube
+      url: 
+      logo: 
+      qrcode: https://telegram.org
+      description: 
 
 - taxonomy: 云服务平台
   icon: fa-cloud
