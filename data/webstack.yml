@@ -3,20 +3,11 @@
   icon: fa-star
   links: 
     - title: Google
-      url: 
-      logo: 
-      qrcode: https://www.google.com
-      description: 
+      url: https://www.google.com
     - title: Youtube
-      url: 
-      logo: 
-      qrcode: https://www.youtube.com
-      description: 
-    - title: Youtube
-      url: 
-      logo: 
-      qrcode: https://telegram.org
-      description: 
+      url: https://www.youtube.com
+    - title: Telegram
+      url: https://www.telegram.org
 
 - taxonomy: 云服务平台
   icon: fa-cloud
