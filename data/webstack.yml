@@ -31,13 +31,14 @@
       url: https://www.facebook.com/
       logo: 
       qrcode: 
-      description: Facebook（简称FB），是源于美国的社交网络服务及社会化媒体网站，
+      description: Facebook（简称FB），是源于美国的社交网络服务及社会化媒体网站。
       
-- taxonomy: 云服务平台
+- taxonomy: 科学上网
   icon: fa-cloud
   links: 
-    - title: Github
-      url: https://github.com/
+    - title: 开心云
+      url: https://www.happy-jc.top/
+      description: 稳定运行1年半，G口接入，带宽大，速度快，站长nice~。
   
 - taxonomy: 网络资源
   icon: fa-download
