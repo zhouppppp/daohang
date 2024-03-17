@@ -38,11 +38,11 @@
   links: 
     - title: 开心姚哥
       url: https://www.happy-jc.top/
-      logo: https://github.com/zhouppppp/daohang/blob/main/static/images/1.jpg
+      logo: images/logos/1.png
       description: 稳定运行1年半，G口接入，带宽大，速度快，注册试用，AFF50循环返利。
     - title: 十一月
       url: https://www.sxyjc.top/
-      logo: 
+      logo: images/logos/11.png
       description: 稳定运行2年，BGP中转入口，网速稳定。
   
 - taxonomy: 网络资源
