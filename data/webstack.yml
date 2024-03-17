@@ -2,16 +2,37 @@
 - taxonomy: 常用工具
   icon: fa-star
   links: 
-    - title: Google
-      url: https://www.google.com
-      description: Google搜尋是Google公司重要也是最普及的一項功能，是多個國家內使用率最高的網際網路搜尋引擎。
-    - title: Youtube
-      url: https://www.youtube.com
-      description: YouTube是目前全球最大的影片搜尋和分享平台，同時允許使用者上傳、觀看、分享及評論影片。
-    - title: Telegram
-      url: https://www.telegram.org
-      description: Telegram（非正式簡稱TG、電報、紙飛機）是跨平台的即時通訊軟體，其用戶端是自由及開放原始碼軟體，但伺服器端是專有軟體
-
+    - title: 网络剪贴板
+      url: https://netcut.cn/
+      logo: images/logos/xxx.png
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      description: 在线跨屏剪切文字
+    - title: 网络剪贴板
+      url: https://netcut.cn/
+      logo: images/logos/xxx.png
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      description: 在线跨屏剪切文字
+    - title: 网络剪贴板
+      url: https://netcut.cn/
+      logo: images/logos/xxx.png
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      description: 在线跨屏剪切文字
+    - title: 网络剪贴板
+      url: https://netcut.cn/
+      logo: images/logos/xxx.png
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      description: 在线跨屏剪切文字
+    - title: 网络剪贴板
+      url: https://netcut.cn/
+      logo: images/logos/xxx.png
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      description: 在线跨屏剪切文字
+    - title: 网络剪贴板
+      url: https://netcut.cn/
+      logo: images/logos/xxx.png
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      description: 在线跨屏剪切文字
+      
 - taxonomy: 云服务平台
   icon: fa-cloud
   links: 
