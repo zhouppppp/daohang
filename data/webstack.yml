@@ -2,11 +2,11 @@
 - taxonomy: 常用工具
   icon: fa-star
   links: 
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
+    - title: Google
+      url: https://www.google.com/
+      logo: 
+      qrcode: 
+      description: Google搜索是一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。
     - title: 网络剪贴板
       url: https://netcut.cn/
       logo: images/logos/xxx.png
