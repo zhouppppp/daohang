@@ -1,4 +1,4 @@
-baseURL = "https://zhouppppp.github.io/daohang/"
+baseURL = "https://wnfn.syyjccn.top/"
 languageCode = "zh-CN"
 title = "菜鸟导航站"
 theme = "hugo-webstack"
@@ -11,7 +11,7 @@ copyright = "菜鸟导航"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,常用官网，区块链,vpn,科学上网，高速机场，稳定机场，老牌机场，稳定节点，爱分享，科技共享"
+  keywords = "网址导航,常用官网,区块链,vpn,科学上网,高速机场,稳定机场,老牌机场,稳定节点,爱分享,科技共享"
   description = "网址导航"
 
 #是否开启搜索栏，true开启，false关闭
