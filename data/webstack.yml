@@ -64,9 +64,9 @@
   list: 
     - term: 影视
       links:
-        - title: 阿里小站
-          url: https://pan666.cn
-          description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
+        - title: MissAV
+          url: https://missav.com
+          description: 在线影视站，播放速度流畅。
     - term: 字幕
       links:
         - title: 字幕库
