@@ -1,5 +1,5 @@
 ---
-- taxonomy: 常用工具
+- taxonomy: 常用官网
   icon: fa-star
   links: 
     - title: Google
@@ -44,6 +44,50 @@
       url: https://www.sxyjc.top/
       logo: static/images/11.png
       description: 稳定运行2年，BGP中转入口，网速稳定。
+
+- taxonomy: 服务器商-国际
+  icon: fa-star
+  links: 
+    - title: 亚马逊云
+      url: https://aws.amazon.com/tw/
+      logo: 
+      qrcode: 
+      description: AWS 免費方案可讓客戶探索 AWS 服務，並針對每個服務免費試用一段指定的時間。
+    - title: 微软云
+      url: https://azure.microsoft.com/zh-cn/
+      logo: 
+      qrcode: 
+      description: 即用即付或最长免费试用 30 天 Azure。无前期承诺使用量（可随时取消）。
+    - title: 甲骨文云
+      url: https://www.oracle.com/tw/cloud/free/
+      logo: 
+      qrcode: 
+      description: 新的永遠 Oracle Cloud 免費服務已新增，包括 Arm Ampere A1 Compute。針對大型 Arm 開發專案，您可以申請 OCI Arm Accelerator。
+    - title: 谷歌云
+      url: https://cloud.google.com/?hl=zh-CN
+      logo: 
+      qrcode: 
+      description: 新客户可获享 $300 赠金，用于全面探索和评估 Google Cloud。只有当您升级时我们才会收费。
+    - title: 阿里云国际
+      url: https://www.alibabacloud.com/
+      logo: 
+      qrcode: 
+      description: 需要分销商注册，免实名。
+    - title: 腾讯云国际
+      url: https://www.tencentcloud.com/zh
+      logo: 
+      qrcode: 
+      description: 需要分销商注册，免实名。
+    - title: 华为云国际
+      url: https://www.huaweicloud.com/intl/zh-cn/
+      logo: 
+      qrcode: 
+      description: 需要分销商注册，免实名。
+    - title: 百度云国际
+      url: https://www.huaweicloud.com/intl/zh-cn/
+      logo: 
+      qrcode: 
+      description: 需要分销商注册，免实名。
   
 - taxonomy: 网络资源
   icon: fa-download
