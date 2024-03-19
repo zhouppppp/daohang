@@ -195,15 +195,16 @@
       logo: 
       qrcode: 
       description: 能接收邮件的临时邮箱，也称为一次性邮箱，24小时邮箱，10分钟邮箱，可丢弃邮箱，是完全匿名和安全的。
-      
+
 - taxonomy: 兴趣广场
   icon: fa-star
   links: 
-        - title: MissAV
-          logo: 
-          url: https://missav.com
-          description: 在线影视站，播放速度流畅。
-          
+    - title: MissAV
+      url: https://missav.com
+      logo: 
+      qrcode: 
+      description: 在线影视站，播放速度流畅。
+      
 - taxonomy: 友情链接
   icon: fa-link
   friend:
