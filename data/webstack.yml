@@ -117,48 +117,89 @@
       logo: 
       qrcode: 
       description: 自主式3D网站开发，简单易上手。
-      
-- taxonomy: 云服务平台
-  icon: fa-cloud
-  links: 
-    - title: Github
-      url: https://github.com/
-  
-- taxonomy: 网络资源
-  icon: fa-download
-  list: 
-    - term: 软件
-      links:
-        - title: 果核剥壳
-          url: https://www.ghxi.com/
-          description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
-    - term: 游戏
-      links:
-        - title: 老男人游戏网
-          url: https://www.oldmantvg.net/
-          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
-          
-- taxonomy: 影视影音
-  icon: fa-video-camera
-  list: 
-    - term: 影视
-      links:
-        - title: 阿里小站
-          url: https://pan666.cn
-          description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
-    - term: 字幕
-      links:
-        - title: 字幕库
-          url: https://zmk.pw/
-        - title: SubHD
-          url: https://subhd.tv/
-    - term: 音乐
-      links:
-        - title: 果核音乐搜搜
-          url: https://music.ghxi.com/
-        - title: 音乐磁场
-          url: https://www.hifini.com/
 
+- taxonomy: 服务器商-国际
+  icon: fa-star
+  links: 
+    - title: 亚马逊云
+      url: https://aws.amazon.com/tw/
+      logo: 
+      qrcode: 
+      description: AWS 免費方案可讓客戶探索 AWS 服務，並針對每個服務免費試用一段指定的時間。
+    - title: 微软云
+      url: https://azure.microsoft.com/zh-cn/
+      logo: 
+      qrcode: 
+      description: 即用即付或最长免费试用 30 天 Azure。无前期承诺使用量（可随时取消）。
+    - title: 甲骨文云
+      url: https://www.oracle.com/tw/cloud/free/
+      logo: 
+      qrcode: 
+      description: 新的永遠 Oracle Cloud 免費服務已新增，包括 Arm Ampere A1 Compute。針對大型 Arm 開發專案，您可以申請 OCI Arm Accelerator。
+    - title: 谷歌云
+      url: https://cloud.google.com/?hl=zh-CN
+      logo: 
+      qrcode: 
+      description: 新客户可获享 $300 赠金，用于全面探索和评估 Google Cloud。只有当您升级时我们才会收费。
+    - title: 阿里云国际
+      url: https://www.alibabacloud.com/
+      logo: 
+      qrcode: 
+      description: 需要分销商注册，免实名。
+    - title: 腾讯云国际
+      url: https://www.tencentcloud.com/zh
+      logo: 
+      qrcode: 
+      description: 需要分销商注册，免实名。
+    - title: 华为云国际
+      url: https://www.huaweicloud.com/intl/zh-cn/
+      logo: 
+      qrcode: 
+      description: 需要分销商注册，免实名。
+
+- taxonomy: 注册辅助
+  icon: fa-star
+  links: 
+      - title: Gmail
+      url: https://mail.google.com/
+      logo: 
+      qrcode: 
+      description: 谷歌邮箱，谷歌账号通用国际所有平台的账号注册。
+    - title: Outlook
+      url: https://outlook.live.com/
+      logo: 
+      qrcode: 
+      description: 微软旗下邮箱，不需实名，注册无限制。
+    - title: amzkeys虚拟卡
+      url: https://amzkeys.com/index.php?c=register&a=index&invite_code=18137&domain_type=1&alliance_type=2
+      logo: 
+      qrcode: 
+      description: 自用不错的开卡平台，充值门槛低，随用随充。能满足大部分平台的支付需求。  
+    - title: PayPal
+      url: https://www.paypal.com/
+      logo: 
+      qrcode: 
+      description: PayPal，是一个总部位于美国加利福尼亚州圣何塞市的因特网第三方支付服务提供商，允许在使用电子邮件来标示身份的用户之间转移资金，避免了传统的邮寄支票或者汇款的方法。
+    - title: sms-activate付费接码
+      url: https://sms-activate.org/cn
+      logo: 
+      qrcode: 
+      description: 比较优秀的付费接码平台，服务产品比较多。
+    - title: 临时邮箱
+      url: https://www.linshiyouxiang.net/
+      logo: 
+      qrcode: 
+      description: 能接收邮件的临时邮箱，也称为一次性邮箱，24小时邮箱，10分钟邮箱，可丢弃邮箱，是完全匿名和安全的。
+
+- taxonomy: 兴趣广场
+  icon: fa-star
+  links: 
+    - title: MissAV
+      url: https://missav.com
+      logo: 
+      qrcode: 
+      description: 在线影视站，播放速度流畅。
+      
 - taxonomy: 友情链接
   icon: fa-link
   friend:
