@@ -2,17 +2,51 @@
 - taxonomy: 常用工具
   icon: fa-star
   links: 
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 草料二维码
-      qrcode: images/qrcodes/cli.png
-      url: https://cli.im/url
-      description: 在线二维码生成工具
-    - title: 在线文件传输
-      url: https://musetransfer.com/
+    - title: Google
+      url: https://www.google.com/
+      logo: 
+      qrcode: 
+      description: Google搜索是一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。
+    - title: Youtube
+      url: https://www.youtube.com/
+      logo: 
+      qrcode: 
+      description: YouTube是目前全球最大的视频搜索和分享平台，同时允许用户上传、观看、分享及评论视频。
+    - title: Telegram
+      url: https://www.telegram.org/
+      logo: 
+      qrcode: 
+      description: Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。
+    - title: X
+      url: https://twitter.com/
+      logo: 
+      qrcode: 
+      description: X（前身为Twitter）社交网络服务，并计划将其作为其他产品的基础[1]。
+    - title: Instagram
+      url: https://www.instagram.com/
+      logo: 
+      qrcode: 
+      description: Ins，是美国的一款免费提供在线图片及视频分享的社群应用软件，于2010年10月发布。
+    - title: Facebook
+      url: https://www.facebook.com/
+      logo: 
+      qrcode: 
+      description: Facebook（简称FB），是源于美国的社交网络服务及社会化媒体网站。
+    - title: Netflix
+      url: https://www.netflix.com/hk/
+      logo: 
+      qrcode: 
+      description: Netflix（官方中文译名网飞，非官方中文译名奈飞）是起源于美国、在世界各地提供网络视频点播的OTT服务公司。
+    - title: Disney
+      url: https://www.disneyplus.com/zh-hk
+      logo: 
+      qrcode: 
+      description: Disney+是一个由华特迪士尼公司推出的在线流媒体视频点播平台，由华特迪士尼公司的迪士尼媒体和娱乐发行分部掌管和运营。
+    - title: Facebook
+      url: https://www.facebook.com/
+      logo: 
+      qrcode: 
+      description: Facebook（简称FB），是源于美国的社交网络服务及社会化媒体网站。
 
 - taxonomy: 云服务平台
   icon: fa-cloud
