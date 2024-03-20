@@ -1,18 +1,91 @@
 ---
-- taxonomy: 常用工具
+- taxonomy: 常用官网
   icon: fa-star
   links: 
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 草料二维码
-      qrcode: images/qrcodes/cli.png
-      url: https://cli.im/url
-      description: 在线二维码生成工具
-    - title: 在线文件传输
-      url: https://musetransfer.com/
+    - title: Google
+      url: https://www.google.com/
+      logo: 
+      description: Google搜索是一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。
+    - title: Youtube
+      url: https://www.youtube.com/
+      logo: 
+      description: YouTube是目前全球最大的视频搜索和分享平台，同时允许用户上传、观看、分享及评论视频。
+    - title: Telegram
+      url: https://www.telegram.org/
+      logo: 
+      description: Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。
+    - title: X
+      url: https://twitter.com/
+      logo: 
+      description: X（前身为Twitter）社交网络服务，并计划将其作为其他产品的基础[1]。
+    - title: Instagram
+      url: https://www.instagram.com/
+      logo: 
+      description: Ins，是美国的一款免费提供在线图片及视频分享的社群应用软件，于2010年10月发布。
+    - title: Facebook
+      url: https://www.facebook.com/
+      logo: 
+      description: Facebook（简称FB），是源于美国的社交网络服务及社会化媒体网站。
+    - title: Netflix
+      url: https://www.netflix.com/hk/
+      logo: 
+      description: Netflix（官方中文译名网飞，非官方中文译名奈飞）是起源于美国、在世界各地提供网络视频点播的OTT服务公司。
+    - title: Disney
+      url: https://www.disneyplus.com/zh-hk
+      logo: 
+      description: Disney+是一个由华特迪士尼公司推出的在线流媒体视频点播平台，由华特迪士尼公司的迪士尼媒体和娱乐发行分部掌管和运营。
+    - title: Facebook
+      url: https://www.facebook.com/
+      logo: 
+      description: Facebook（简称FB），是源于美国的社交网络服务及社会化媒体网站。
+
+- taxonomy: 科学上网
+  icon: fa-cloud
+  links: 
+    - title: 开心姚哥
+      url: https://www.happy-jc.top/
+      logo: static/images/1.jpg
+      description: 稳定运行1年半，G口接入，带宽大，速度快，注册试用，AFF50循环返利。
+    - title: 十一月
+      url: https://www.sxyjc.top/
+      logo: static/images/11.png
+      description: 稳定运行2年，BGP中转入口，网速稳定。
+
+- taxonomy: 虚拟币交易所
+  icon: fa-cloud
+  links: 
+    - title: 币安中文
+      url: https://accounts.binance.com/register?ref=TJ3ZD5KJ
+      logo: 
+      description: 中文地区最大的虚拟币交易平台。
+    - title: Geta.io
+      url: https://www.gate.io/ref/BgUVUApc?ref_type=102
+      logo: 
+      description: Gate.io 是一家中心化加密货币交易所，用户可在此交易多种加密货币和代币。该平台支持超过1400种加密货币以及2500种交易对。(个人使用很不错，创始人低调，风波较少，链接注册交易手续费7折)
+    - title: Pionex
+      url: https://www.pionex.com/zh-CN/signUp?r=0kb5XXWK17A
+      logo: 
+      description: 使用体验感不错的一家主打自动量化的交易所，不实名可当作去中心化交易所使用。
+    - title: 欧意中文
+      url: https://www.okx.com/cn
+      logo: 
+      description: 欧易（英语：OKX；原名OKEx）是一间总部位于塞舌尔的加密货币交易所，由徐明星于 2017 年创办。
+    - title: 火币
+      url: https://www.htx.com/zh-cn/
+      logo: 
+      description: Huobi Global（火必全球站）是一个国际数字资产交易所，在全球 100 多国均可使用。
+    - title: pancake
+      url: https://pancakeswap.finance/
+      logo: 
+      description: （中文名博饼）去中心化交易所。
+    - title: Uniswap v3 (Ethereum)
+      url: https://app.uniswap.org/#/swap
+      logo: 
+      description: Uniswap 于 2018 年推出，是最受欢迎的加密货币去中心化交易所 (DEX) 之一。
+    - title: coinmarketcap
+      url: https://coinmarketcap.com/zh/
+      logo: 
+      description: CoinMarketCap (CMC) 是一个价格跟踪加密网站和加密数据提供商。该网站发布实时加密资产和市场数据，包括价格跟踪、加密资产市值、比特币领先水平和加密货币交换量数据。
 
 - taxonomy: 友情链接
   icon: fa-link
