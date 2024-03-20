@@ -87,6 +87,22 @@
       logo: 
       description: CoinMarketCap (CMC) 是一个价格跟踪加密网站和加密数据提供商。该网站发布实时加密资产和市场数据，包括价格跟踪、加密资产市值、比特币领先水平和加密货币交换量数据。
 
+- taxonomy: AI尝鲜
+  icon: fa-cloud
+  links: 
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      logo: 
+      description: 不多介绍，全球第一人工智能研发商。
+    - title: Sora
+      url: https://openai.com/sora
+      logo: 
+      description: OPENAI旗下视频生成工具。
+    - title: Dora
+      url: https://www.dora.run/
+      logo: 
+      description: 自主式3D网站开发，简单易上手。
+
 - taxonomy: 友情链接
   icon: fa-link
   friend:
