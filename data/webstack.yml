@@ -51,6 +51,42 @@
       logo: static/images/11.png
       description: 稳定运行2年，BGP中转入口，网速稳定。
 
+- taxonomy: 虚拟币交易所
+  icon: fa-cloud
+  links: 
+    - title: 币安中文
+      url: https://accounts.binance.com/register?ref=TJ3ZD5KJ
+      logo: 
+      description: 中文地区最大的虚拟币交易平台。
+    - title: Geta.io
+      url: https://www.gate.io/ref/BgUVUApc?ref_type=102
+      logo: 
+      description: Gate.io 是一家中心化加密货币交易所，用户可在此交易多种加密货币和代币。该平台支持超过1400种加密货币以及2500种交易对。(个人使用很不错，创始人低调，风波较少，链接注册交易手续费7折)
+    - title: Pionex
+      url: https://www.pionex.com/zh-CN/signUp?r=0kb5XXWK17A
+      logo: 
+      description: 使用体验感不错的一家主打自动量化的交易所，不实名可当作去中心化交易所使用。
+    - title: 欧意中文
+      url: https://www.okx.com/cn
+      logo: 
+      description: 欧易（英语：OKX；原名OKEx）是一间总部位于塞舌尔的加密货币交易所，由徐明星于 2017 年创办。
+    - title: 火币
+      url: https://www.htx.com/zh-cn/
+      logo: 
+      description: Huobi Global（火必全球站）是一个国际数字资产交易所，在全球 100 多国均可使用。
+    - title: pancake
+      url: https://pancakeswap.finance/
+      logo: 
+      description: （中文名博饼）去中心化交易所。
+    - title: Uniswap v3 (Ethereum)
+      url: https://app.uniswap.org/#/swap
+      logo: 
+      description: Uniswap 于 2018 年推出，是最受欢迎的加密货币去中心化交易所 (DEX) 之一。
+    - title: coinmarketcap
+      url: https://coinmarketcap.com/zh/
+      logo: 
+      description: CoinMarketCap (CMC) 是一个价格跟踪加密网站和加密数据提供商。该网站发布实时加密资产和市场数据，包括价格跟踪、加密资产市值、比特币领先水平和加密货币交换量数据。
+
 - taxonomy: 友情链接
   icon: fa-link
   friend:
