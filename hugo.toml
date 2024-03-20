@@ -1,4 +1,4 @@
-baseURL = "https://wnfn.syyjccn.top/"
+baseURL = "http://example.org/"
 languageCode = "zh-CN"
 title = "菜鸟导航站"
 theme = "hugo-webstack"
