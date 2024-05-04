@@ -170,6 +170,10 @@
       url: https://missav.com
       logo: 
       description: 在线影视站，播放速度流畅。
+    - title: JableTV
+      url: https://jable.tv
+      logo: 
+      description: 在线影视站，高清流畅。
 
 - taxonomy: 友情链接
   icon: fa-link
