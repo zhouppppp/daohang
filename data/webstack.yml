@@ -102,6 +102,10 @@
       url: https://www.dora.run/
       logo: 
       description: 自主式3D网站开发，简单易上手。
+    - title: Coze
+      url: https://www.coze.com/
+      logo: 
+      description: 抖音公司开发，用于海外的AI助手。
 
 - taxonomy: 服务器商-国际
   icon: fa-star
