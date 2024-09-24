@@ -50,6 +50,18 @@
       url: https://www.sxyjc.top/
       logo: static/images/11.png
       description: 稳定运行2年，BGP中转入口，网速稳定。
+    - title: V2rayN
+      url: https://github.com/2dust/v2rayN/releases/tag/6.60
+      logo: 
+      description: 官网客户端下载
+    - title: V2rayNG
+      url: https://github.com/2dust/v2rayNG/releases/tag/1.8.39
+      logo: 
+      description: 安卓版客户端下载
+    - title: Sing-box
+      url: https://sing-box.sagernet.org/zh/clients/
+      logo: 
+      description: 全平台客户端下载
 
 - taxonomy: 虚拟币交易所
   icon: fa-cloud
